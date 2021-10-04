@@ -4,6 +4,7 @@
 
 ### 🐾  01일
 　　**[📌 Device Orientation](https://github.com/yoogail105/SSAC_iOS/issues/3#issue-1015288934)**<br/>
+  　　　　`Portrait` `Upside Down` `Landscape Left` `Landscape Right`<br/>
 
 ### 🐾  03일
 　　**[📌 옵셔널 Optional](https://github.com/yoogail105/SSAC_iOS/issues/1#issue-1012120893)**<br/>
