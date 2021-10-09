@@ -24,34 +24,35 @@
 ### 🐾  05일
 　　**[📌 다크모드 Dark Mode](https://github.com/yoogail105/SSAC_iOS/issues/2#issue-1013129058)**<br/>
   　　　　`Semantic colors` `System Colors` `Dynamic Colors` `다크모드 없이 개발하는 법`<br/>
-      　　**📌 오토 레이아웃 Auto Layout**<br/>
-      　　**📌 iOS15 버튼**<br/>
-      　　**📌 함수 Func**<br/>
+　　**📌 오토 레이아웃 Auto Layout**<br/>
+　　**📌 iOS15 버튼**<br/>
+　　**📌 함수 Func**<br/>
 
 ### 🐾  06일
-　　**[📌 열거형 Enumaeration]**<br/>
-  　　　　`Semantic colors` `System Colors` `Dynamic Colors` `다크모드 없이 개발하는 법`<br/>
-   **📌 오토 레이아웃 Auto Layout**<br/>
-   **📌 iOS15 버튼**<br/>
-   **📌 함수 Func**<br/>
+　　**📌 VCS(Version Control System)**<br/>
+　　**📌 Git**<br/>
+　　**📌 Size Class**<br/>
+　　**📌 UINavigationCOntroller**<br/>
         
 ### 🐾  07일
-　　**📌 열거형 Enumaeration**<br/>
-  　　　　`Semantic colors` `System Colors` `Dynamic Colors` `다크모드 없이 개발하는 법`<br/>
-   **📌 Storyboard Reference**<br/>
-   **📌 라이브러리**<br/>
-   **📌 UserDefaults**<br/>
+　　**[📌 열거형 Enumaeration](https://github.com/yoogail105/SSAC_iOS/issues/5#issue-1021660492)**<br/>
+  　　　　`열거형&자료형` `switch&열거형` `원시값 RawValue`<br/>
+　　**📌 Storyboard Reference**<br/>
+　　**📌 라이브러리**<br/>
+　　**📌 UserDefaults**<br/>
+　　**📌 
+  
 
 ### 🐾  08일
 　　**📌 Class**<br/>
-  　　　　`Semantic colors` `System Colors` `Dynamic Colors` `다크모드 없이 개발하는 법`<br/>
-   **📌 Struct**<br/>
-   **📌 Class vs Struct**<br/>
+　　**📌 Struct**<br/>
+　　**📌 Class vs Struct**<br/>
 
 ### 🐾  09일
 　　**📌 앱 패키지 내부 살펴보기s**<br/>
-  　　　　`Semantic colors` `System Colors` `Dynamic Colors` `다크모드 없이 개발하는 법`<br/>
-   **📌 함수와 반환값**<br/>
-   **📌 로컬 알림과 푸시 알림t**<br/>
+　　**📌 함수와 반환값**<br/>
+　　**📌 로컬 알림과 푸시 알림t**<br/>
 
+### 🐾
+　　**[📌 엔트리 포인터 없어졌을 때](https://github.com/yoogail105/SSAC_iOS/issues/7#issue-1021663055)**<br/>
 
