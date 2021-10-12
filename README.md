@@ -56,7 +56,7 @@
 ### 🐾  10일
 　　**📌 [테이블뷰 Table View](10일차(21.10.12)/테이블뷰TableView.md)**<br/>
 　　**📌 [테이블 뷰 구현 메서드](https://github.com/yoogail105/SSAC_iOS/blob/9096d3b871cfe6e1b54e7ace756eafe2a1a84c19/10%EC%9D%BC%EC%B0%A8(21.10.12)/TableView%20%EA%B5%AC%ED%98%84%20%EB%A9%94%EC%84%9C%EB%93%9C.md)**<br/>
-　　**📌 재사용 메커니즘**<br/>
+　　**📌 [재사용 메커니즘](https://github.com/yoogail105/SSAC_iOS/blob/9fd9b13c40a8f05b51d8b8b3c984af44fd0c6983/10%EC%9D%BC%EC%B0%A8(21.10.12)/3.%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98(dequeueReusableCell).md)**<br/>
 　　**📌 옵셔널 체이닝 & 바인딩**<br/>
 
 
