@@ -1,8 +1,14 @@
 # TableVeiw 구현 메서드
-### 필수
+
+### #indexPath 
+```swift
+indexPath.row: 셀의 위치(0부터 순서)
+indexPath.section: 섹션의 위치(0부터 순서)
+```
+### #필수
 #### 1. 셀의 갯수 `numberOfRowsInSection`
 
-```swift
+```swift  
 override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         <#code#>
     }
@@ -18,7 +24,7 @@ override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexP
 
 - 사실 이 두가지 메서드는 TableViewController.swift를 생성하면 자동으로 입력되어 있는 것이기도 하다.
 
-### 옵션
+### #옵션
 
 #### 1. 셀의 높이 `heightForRowAt`
 
