@@ -59,7 +59,12 @@
 　　**📌 [재사용 메커니즘](https://github.com/yoogail105/SSAC_iOS/blob/9fd9b13c40a8f05b51d8b8b3c984af44fd0c6983/10%EC%9D%BC%EC%B0%A8(21.10.12)/3.%20%EC%9E%AC%EC%82%AC%EC%9A%A9%20%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98(dequeueReusableCell).md)**<br/>
 　　**📌 옵셔널 체이닝 & 바인딩**<br/>
 
-
+### 🐾 11일
+　　**📌[프로퍼티Property](https://velog.io/@yoogail/프로퍼티-Property-b0brnrsj)**<br/>
+　　　　`저장프로퍼티` `연산프로퍼티` `willSet/didSet`<br/>
+　　**📌 지연 저장 프로퍼티 lazy**<br/>
+　　**📌 타입 알리어스 typealias**<br/>
+  
 ### 🐾
 　　**[📌 엔트리 포인터 없어졌을 때](https://github.com/yoogail105/SSAC_iOS/issues/7#issue-1021663055)**<br/>
 
