@@ -47,6 +47,7 @@
 　　**📌 Class**<br/>
 　　**📌 Struct**<br/>
 　　**📌 Class vs Struct**<br/>
+　　**📌 [튜플 Tuple](https://github.com/yoogail105/SSAC_iOS/blob/fa970ac3134d99794bda6531d9b641c6ccf16655/08%EC%9D%BC%EC%B0%A8(21.10.07)/%23Tuple.md)**<br/>
 
 ### 🐾  09일
 　　**📌 앱 패키지 내부 살펴보기s**<br/>
