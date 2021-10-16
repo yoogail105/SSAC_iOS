@@ -61,6 +61,10 @@
 　　**📌 옵셔널 체이닝 & 바인딩**<br/>
 
 ### 🐾 11일
+　　**📌[옵셔널 바인딩](https://github.com/yoogail105/SSAC_iOS/blob/c00d9d6febb8f41adb5b02e0ffb05f2d084a75ae/11%EC%9D%BC%EC%B0%A8(21.10.13)/%23%EC%98%B5%EC%85%94%EB%84%90%EB%B0%94%EC%9D%B8%EB%94%A9:%20If-let,%20guard.md)**<br/>
+　　　　`if let` `guard let`<br/>
+　　**📌[타입캐스팅](https://github.com/yoogail105/SSAC_iOS/blob/c00d9d6febb8f41adb5b02e0ffb05f2d084a75ae/11%EC%9D%BC%EC%B0%A8(21.10.13)/%23%ED%83%80%EC%9E%85%EC%BA%90%EC%8A%A4%ED%8C%85.md)**<br/>
+　　　　`is` `as?`<br/>
 　　**📌[프로퍼티Property](https://velog.io/@yoogail/프로퍼티-Property-b0brnrsj)**<br/>
 　　　　`저장프로퍼티` `연산프로퍼티` `willSet/didSet`<br/>
 　　**📌 지연 저장 프로퍼티 lazy**<br/>
