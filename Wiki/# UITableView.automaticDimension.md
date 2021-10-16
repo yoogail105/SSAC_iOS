@@ -38,7 +38,11 @@ override func tableView(_ tableView: UITableView, estimatedHeightForRowAt indexP
 - 예상값 없으면 automaticDimension 반환
 <br>
 
-cf. 특정 섹션만 고정하기
+#### ⛔️설정했는데 동작하지 않을 때
+storyboard에서 해당하는 것을 클릭한 후(ex. label) 인스펙터에서 `Lines를 0`으로 설정해 준다.
+<br>
+
+#### cf. 특정 섹션만 고정하기
  → `indexPath.row` 활용
  <br>
  <br>
