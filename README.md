@@ -74,6 +74,10 @@
 　　**📌[화면전환 구현하기(기본 루틴)](https://github.com/yoogail105/SSAC_iOS/blob/5bee58ef6506b8efc724a8340687bb342d36a931/13%EC%9D%BC%EC%B0%A8(21.10.15)/%23%ED%99%94%EB%A9%B4%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0(%EA%B8%B0%EB%B3%B8%EB%A3%A8%ED%8B%B4).md)**<br/>
 　　　　`Present-Dismiss` `Push-Pop`<br/>
 
+### 🐾 14회차
+　　**📌 [Storyboard Reference](https://github.com/yoogail105/SSAC_iOS/blob/49d4d2a2968c590a03c100167ef8fa564ea885ff/14%EC%9D%BC%EC%B0%A8(21.10.18)/%23Storyboard%20reference.md)**<br/>
+　　**📌 [XIB TableViewCell](https://github.com/yoogail105/SSAC_iOS/blob/2aaa580fadb2a65a63e9be83f44662aa00397c8b/14%EC%9D%BC%EC%B0%A8(21.10.18)/XIB%20TableViewCell.md)**<br/>
+
 
   
 ### 🐾
