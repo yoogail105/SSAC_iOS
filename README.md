@@ -87,7 +87,10 @@
 　　**📌 [#하나의 UIView에 여러개 CollectionView 추가하기](https://github.com/yoogail105/SSAC_iOS/blob/7aca97ab6286a39d69e0757dc309b967d9aaf6c2/15%EC%9D%BC%EC%B0%A8(21.10.19)/%23%20CollectionView%20Layout:%20Flow%20Layout.md)**<br/>
 　　**📌 [#CollectionViewCell에 버튼 추가하기](https://github.com/yoogail105/SSAC_iOS/blob/461ec974e051a449d64370b9a6f97dee723c4992/15%EC%9D%BC%EC%B0%A8(21.10.19)/%23CollectionViewCell%EC%97%90%20%EB%B2%84%ED%8A%BC%20%EC%B6%94%EA%B0%80.md)**<br/>
   　　　　`.addTarget` `.reloadData` `.reloadItems`<br/>
-  
+      
+### 🐾 16회차
+　　**📌 [#Authorization & Privacy(Asccessing User Data)](https://github.com/yoogail105/SSAC_iOS/blob/e130e14e7152e947e4efff8295eb85deb03e0cae/16%ED%9A%8C%EC%B0%A8(21.10.20)/%23%20Authorization%20&%20Privacy(Asccessing%20User%20Data).md)**<br/>
+　　**📌 [#위치 권한 설정](https://velog.io/@yoogail/위치-권한-설정-info.Plist)**<br/>
   
 ### 🐾
 　　**[📌 엔트리 포인터 없어졌을 때](https://github.com/yoogail105/SSAC_iOS/issues/7#issue-1021663055)**<br/>
