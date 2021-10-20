@@ -51,10 +51,9 @@
 - 오해를 불러 일으킬 수 있는 문구 X
 - 특정 버튼의 입력을 유도하는 문구 X
 
-다음은 모두 안된다는 예시이다.
-<img width="726" alt="image" src="https://user-images.githubusercontent.com/53874628/138036373-17b6c0a3-64f4-4da1-869c-c5acc429e512.png">
+다음은 모두 안된다는 예시이다.</br>
+<img width="726" alt="image" src="https://user-images.githubusercontent.com/53874628/138036373-17b6c0a3-64f4-4da1-869c-c5acc429e512.png"></br>
 
-</br>
 🔖 참고<br>
 SeSAC iOS 데뷔과정 16회차 강의자료<br>
 https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/accessing-user-data/
