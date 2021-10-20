@@ -37,7 +37,8 @@
     
     - 단, 이때 '**허용**'과 같이 권한 요청을 승인한다고 생각할 만한 문구는 입력 X
 
-<img width="710" alt="image" src="https://user-images.githubusercontent.com/53874628/138036325-534d0d23-10c8-4198-8a99-4cf5dc9e1b18.png">
+<img width="553" alt="image" src="https://user-images.githubusercontent.com/53874628/138036919-fc156ad1-af43-4c46-ad97-381c0b461e88.png">
+
 
 
 - 만약 추가 정보에 접근하는 것이 앞으로의 앱의 사용에 필수적이라면, 요청을 해달라는 경고가 표시되기 전에 요청 내용을 표시한다.
