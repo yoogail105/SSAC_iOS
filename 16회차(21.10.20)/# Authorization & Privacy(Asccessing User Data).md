@@ -55,6 +55,6 @@
 <img width="726" alt="image" src="https://user-images.githubusercontent.com/53874628/138036373-17b6c0a3-64f4-4da1-869c-c5acc429e512.png">
 
 </br>
-🔖 
-SSAC 가
+🔖 참고<br>
+SeSAC iOS 데뷔과정 16회차 강의자료<br>
 https://developer.apple.com/design/human-interface-guidelines/ios/app-architecture/accessing-user-data/
