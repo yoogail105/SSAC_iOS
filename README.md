@@ -94,7 +94,10 @@
   
 ### 🐾 20회차  
 　　**📌 [#RestAPI](https://github.com/yoogail105/SSAC_iOS/blob/8282470c48e8cf56ad6228e2a72c1fa2c3aac26e/19%ED%9A%8C%EC%B0%A8(21.10.26)/%23RestAPI.md)**<br/>
-
+  
+### 🐾 22회차 
+　　**📌 [#고차함수 Higher-order function](https://github.com/yoogail105/SSAC_iOS/blob/668785ed686902830c509626fc6bbd2b97b9af8b/22%ED%9A%8C%EC%B0%A8(21.10.28)/%23%20%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98%20Higher-order%20function.md)**<br/>
+  　　　　`.filter` `.map` `.reduce` `.$0` <br/>
 ### 🐾
 　　**[📌 엔트리 포인터 없어졌을 때](https://github.com/yoogail105/SSAC_iOS/issues/7#issue-1021663055)**<br/>
 　　**[📌 UITableView.automaticDimension](https://github.com/yoogail105/SSAC_iOS/blob/19e61f97e6b44184193452a96fd1a56f6ef54756/Wiki/%23%20UITableView.automaticDimension.md)**<br/>
