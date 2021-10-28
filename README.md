@@ -50,7 +50,7 @@
 　　**📌 [튜플 Tuple](https://github.com/yoogail105/SSAC_iOS/blob/fa970ac3134d99794bda6531d9b641c6ccf16655/08%EC%9D%BC%EC%B0%A8(21.10.07)/%23Tuple.md)**<br/>
 
 ### 🐾  09회차
-　　**📌 앱 패키지 내부 살펴보기s**<br/>
+　　**📌 앱 패키지 내부 살펴보기**<br/>
 　　**📌 함수와 반환값**<br/>
 　　**📌 로컬 알림과 푸시 알림t**<br/>
   
@@ -84,19 +84,32 @@
   　　　　`item`<br/>
 　　**📌 [CollectionView Layout: Flow Layout](https://github.com/yoogail105/SSAC_iOS/blob/1df67c62cc577d84a3a103c083ddc2f0a366427f/15%EC%9D%BC%EC%B0%A8(21.10.19)/%23%20CollectionView%20Layout:%20Flow%20Layout.md)**<br/>
   　　　　`.itemSize` `.sectionInset` `.minimumLineSpacing` `.minimumItneritemSpacing` `.scrollDirection` <br/>
-　　**📌 [#하나의 UIView에 여러개 CollectionView 추가하기](https://github.com/yoogail105/SSAC_iOS/blob/7aca97ab6286a39d69e0757dc309b967d9aaf6c2/15%EC%9D%BC%EC%B0%A8(21.10.19)/%23%20CollectionView%20Layout:%20Flow%20Layout.md)**<br/>
-　　**📌 [#CollectionViewCell에 버튼 추가하기](https://github.com/yoogail105/SSAC_iOS/blob/461ec974e051a449d64370b9a6f97dee723c4992/15%EC%9D%BC%EC%B0%A8(21.10.19)/%23CollectionViewCell%EC%97%90%20%EB%B2%84%ED%8A%BC%20%EC%B6%94%EA%B0%80.md)**<br/>
+　　**📌 [하나의 UIView에 여러개 CollectionView 추가하기](https://github.com/yoogail105/SSAC_iOS/blob/7aca97ab6286a39d69e0757dc309b967d9aaf6c2/15%EC%9D%BC%EC%B0%A8(21.10.19)/%23%20CollectionView%20Layout:%20Flow%20Layout.md)**<br/>
+　　**📌 [CollectionViewCell에 버튼 추가하기](https://github.com/yoogail105/SSAC_iOS/blob/461ec974e051a449d64370b9a6f97dee723c4992/15%EC%9D%BC%EC%B0%A8(21.10.19)/%23CollectionViewCell%EC%97%90%20%EB%B2%84%ED%8A%BC%20%EC%B6%94%EA%B0%80.md)**<br/>
   　　　　`.addTarget` `.reloadData` `.reloadItems`<br/>
       
 ### 🐾 16회차
-　　**📌 [#Authorization & Privacy(Asccessing User Data)](https://github.com/yoogail105/SSAC_iOS/blob/e130e14e7152e947e4efff8295eb85deb03e0cae/16%ED%9A%8C%EC%B0%A8(21.10.20)/%23%20Authorization%20&%20Privacy(Asccessing%20User%20Data).md)**<br/>
-　　**📌 [#위치 권한 설정](https://velog.io/@yoogail/위치-권한-설정-info.Plist)**<br/>
+　　**📌 [Authorization & Privacy(Asccessing User Data)](https://github.com/yoogail105/SSAC_iOS/blob/e130e14e7152e947e4efff8295eb85deb03e0cae/16%ED%9A%8C%EC%B0%A8(21.10.20)/%23%20Authorization%20&%20Privacy(Asccessing%20User%20Data).md)**<br/>
+　　**📌 [위치 권한 설정](https://velog.io/@yoogail/위치-권한-설정-info.Plist)**<br/>
   
 ### 🐾 20회차  
-　　**📌 [#RestAPI](https://github.com/yoogail105/SSAC_iOS/blob/8282470c48e8cf56ad6228e2a72c1fa2c3aac26e/19%ED%9A%8C%EC%B0%A8(21.10.26)/%23RestAPI.md)**<br/>
+　　**📌 [RestAPI](https://github.com/yoogail105/SSAC_iOS/blob/8282470c48e8cf56ad6228e2a72c1fa2c3aac26e/19%ED%9A%8C%EC%B0%A8(21.10.26)/%23RestAPI.md)**<br/>
+
+### 🐾 21회차
+　　**📌 validate()**<br/>
+　　**📌 MIME**<br/>
+　　**📌 [페이지네이션Pagination](https://github.com/yoogail105/SSAC_iOS/blob/5c61073e9448415fcbf6b1b59ad2823615e49814/21%ED%9A%8C%EC%B0%A8(21.10.27)/%23%ED%8E%98%EC%9D%B4%EC%A7%80%EB%84%A4%EC%9D%B4%EC%85%98Pagination.md)**<br/>
+　　**📌 [페이지네이션의 방법](https://github.com/yoogail105/SSAC_iOS/blob/415c863887a5e062d31285d4a5bb96a745a236a4/21%ED%9A%8C%EC%B0%A8(21.10.27)/%23%ED%8E%98%EC%9D%B4%EC%A7%80%20%EB%84%A4%EC%9D%B4%EC%85%98%EC%9D%98%20%EB%B0%A9%EB%B2%95.md)**<br/>
+  　　　　`Offset` `Cursor`<br/>
+　　**📌 [iOS 페이지네이션 구현 방법](https://github.com/yoogail105/SSAC_iOS/blob/38481cb2aa713c4b32054af6bf6099656f1c86c8/21%ED%9A%8C%EC%B0%A8(21.10.27)/%23%ED%8E%98%EC%9D%B4%EC%A7%80%EB%84%A4%EC%9D%B4%EC%85%98%20%EA%B5%AC%ED%98%84%20%EB%B0%A9%EB%B2%95.md)**<br/>
+  　　　　`tableVeiw: willDisplayCall` `ScrollView` `prefetch`<br/>
+　　**📌 [페이지네이션 구현하기: prefetch](https://github.com/yoogail105/SSAC_iOS/blob/05c1ad5ac1cb61a127fee031c28a70005bc60985/21%ED%9A%8C%EC%B0%A8(21.10.27)/%23%ED%8E%98%EC%9D%B4%EC%A7%80%EB%84%A4%EC%9D%B4%EC%85%98%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0:%20prefetch.md)**<br/>
+  　　　　`startPage` `UITableViewDataSourcePrefetching` `prefetchRowsAt` `cancelPrefetchingForRowsAt`<br/>
+　　**📌 [Kingfisher에서 이미지가 제대로 로드되지 않는 문제](https://github.com/yoogail105/SSAC_iOS/blob/3fd4a451b504c2fd98f45a0075e598dec180cf23/21%ED%9A%8C%EC%B0%A8(21.10.27)/%23Kingfisher%EC%97%90%EC%84%9C%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EA%B0%80%20%EC%A0%9C%EB%8C%80%EB%A1%9C%20%EB%A1%9C%EB%93%9C%EB%90%98%EC%A7%80%20%EC%95%8A%EB%8A%94%20%EB%AC%B8%EC%A0%9C.md)**<br/>
+
   
 ### 🐾 22회차 
-　　**📌 [#고차함수 Higher-order function](https://github.com/yoogail105/SSAC_iOS/blob/668785ed686902830c509626fc6bbd2b97b9af8b/22%ED%9A%8C%EC%B0%A8(21.10.28)/%23%20%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98%20Higher-order%20function.md)**<br/>
+　　**📌 [고차함수 Higher-order function](https://github.com/yoogail105/SSAC_iOS/blob/668785ed686902830c509626fc6bbd2b97b9af8b/22%ED%9A%8C%EC%B0%A8(21.10.28)/%23%20%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98%20Higher-order%20function.md)**<br/>
   　　　　`.filter` `.map` `.reduce` `$0` <br/>
 ### 🐾
 　　**[📌 엔트리 포인터 없어졌을 때](https://github.com/yoogail105/SSAC_iOS/issues/7#issue-1021663055)**<br/>
