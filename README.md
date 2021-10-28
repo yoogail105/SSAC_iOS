@@ -92,7 +92,7 @@
 　　**📌 [#Authorization & Privacy(Asccessing User Data)](https://github.com/yoogail105/SSAC_iOS/blob/e130e14e7152e947e4efff8295eb85deb03e0cae/16%ED%9A%8C%EC%B0%A8(21.10.20)/%23%20Authorization%20&%20Privacy(Asccessing%20User%20Data).md)**<br/>
 　　**📌 [#위치 권한 설정](https://velog.io/@yoogail/위치-권한-설정-info.Plist)**<br/>
   
-### 🐾 19회차  
+### 🐾 20회차  
 　　**📌 [#RestAPI](https://github.com/yoogail105/SSAC_iOS/blob/8282470c48e8cf56ad6228e2a72c1fa2c3aac26e/19%ED%9A%8C%EC%B0%A8(21.10.26)/%23RestAPI.md)**<br/>
 
 ### 🐾
