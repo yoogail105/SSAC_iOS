@@ -63,3 +63,8 @@ cf. RESTful API
 - `OverFetching`: 내가 필요한 것보다 훨씬 많은 정보를 받는다.
 - `Underfetching`: 너무 세분화 되어 있을 때에는 여러번 호출해야 한다.
 - `Endpoind`: 서비스가 커질수록 거쳐 가야하는 endpoint들이 늘어난다.
+
+
+🔖 참고
+∙ SSAC iOS 개발자 데뷔과정 강의와 강의자료
+∙ https://evan-moon.github.io/2020/04/07/about-restful-api/
