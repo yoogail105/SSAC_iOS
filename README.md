@@ -95,4 +95,4 @@
 ### 🐾
 　　**[📌 엔트리 포인터 없어졌을 때](https://github.com/yoogail105/SSAC_iOS/issues/7#issue-1021663055)**<br/>
 　　**[📌 UITableView.automaticDimension](https://github.com/yoogail105/SSAC_iOS/blob/19e61f97e6b44184193452a96fd1a56f6ef54756/Wiki/%23%20UITableView.automaticDimension.md)**<br/>
-
+　　**[📌 Build input file cannot be found:](https://hmhhsh.notion.site/Build-input-file-cannot-be-found-09c657a36da445c2b1d2c6665be251e3)**<br/>
