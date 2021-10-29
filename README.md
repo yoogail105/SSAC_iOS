@@ -111,6 +111,10 @@
 ### 🐾 22회차 
 　　**📌 [고차함수 Higher-order function](https://github.com/yoogail105/SSAC_iOS/blob/668785ed686902830c509626fc6bbd2b97b9af8b/22%ED%9A%8C%EC%B0%A8(21.10.28)/%23%20%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98%20Higher-order%20function.md)**<br/>
   　　　　`.filter` `.map` `.reduce` `$0` <br/>
+ 
+ ### 🐾 23회차 
+　　**📌 [네트워크 변경 감지](https://github.com/yoogail105/SSAC_iOS/blob/fb914111789b7ba7af2b7c8d48a2fc5dc281d840/23%ED%9A%8C%EC%B0%A8(21.10.29)/%23%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%20%EB%B3%80%EA%B2%BD%20%EA%B0%90%EC%A7%80.md)**</br>
+  　　　　`Reachability` `NWPathMonitor` `.reduce` `$0` <br/>
 ### 🐾
 　　**[📌 엔트리 포인터 없어졌을 때](https://github.com/yoogail105/SSAC_iOS/issues/7#issue-1021663055)**<br/>
 　　**[📌 UITableView.automaticDimension](https://github.com/yoogail105/SSAC_iOS/blob/19e61f97e6b44184193452a96fd1a56f6ef54756/Wiki/%23%20UITableView.automaticDimension.md)**<br/>
