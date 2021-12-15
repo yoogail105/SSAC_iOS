@@ -117,7 +117,7 @@
   　　　　`Reachability` `NWPathMonitor` `.reduce` `$0` <br/>
 
  ### 🐾 55회차
-　　**📌 [스토리보드 설저 제거하기](https://velog.io/@yoogail/Xcode-스토리보드-없이-코딩하기)**</br>
+　　**📌 [스토리보드 설정 제거하기](https://velog.io/@yoogail/Xcode-스토리보드-없이-코딩하기)**</br>
 ### 🐾
 　　**[📌 엔트리 포인터 없어졌을 때](https://github.com/yoogail105/SSAC_iOS/issues/7#issue-1021663055)**<br/>
 　　**[📌 UITableView.automaticDimension](https://github.com/yoogail105/SSAC_iOS/blob/19e61f97e6b44184193452a96fd1a56f6ef54756/Wiki/%23%20UITableView.automaticDimension.md)**<br/>
