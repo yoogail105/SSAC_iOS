@@ -5,6 +5,11 @@
 - iOS에서는 Apple Push Notification System이라고 하는, APNS가 이를 담당한다.
 - Firebase Cloud Messaging을 이용할 수 있다.
 
+### 예시
+1. 큐텐: 한 번에 **모든 사용자에게 같은 psuh내용**을 보낸다.
+2. 날씨정보앱: **특정 위치에 있는 사람들에게 비가 온다는 정보**를 보낸다.
+3. 카카오톡: 1대1 채팅처럼, **해당되는 디바이스에만 push**를 보낸다.
+
 🔖 참고
 - SSAC 강의 자료
 - https://tech.junhabaek.net/백엔드-서버-아키텍처-presentation-layer-3-응답-유형에-따른-variation-2-push-notification-1eacb4df4a7e#1fcc
