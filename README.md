@@ -118,6 +118,13 @@
 
  ### 🐾 55회차
 　　**📌 [스토리보드 설정 제거하기](https://velog.io/@yoogail/Xcode-스토리보드-없이-코딩하기)**</br>
+  
+ ### 🐾 56회차
+　　**📌 [Push Notification](https://github.com/yoogail105/SSAC_iOS/blob/cf8dc1391194812ad6c0550b12c9c9eab1d80b6e/56%ED%9A%8C%EC%B0%A8(21.12.16)/Push%20Notification.md)**</br>
+　　**📌 [Push Notification 동작방식](https://github.com/yoogail105/SSAC_iOS/blob/cf8dc1391194812ad6c0550b12c9c9eab1d80b6e/56%ED%9A%8C%EC%B0%A8(21.12.16)/Remote%20Notification%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EC%8B%9D.md)**</br>
+　　**📌 [APNs: Apple Push Notification Service](https://github.com/yoogail105/SSAC_iOS/blob/cf8dc1391194812ad6c0550b12c9c9eab1d80b6e/56%ED%9A%8C%EC%B0%A8(21.12.16)/APNs:%20Apple%20Push%20Notification%20Service.md)**</br>
+
+
 ### 🐾
 　　**[📌 엔트리 포인터 없어졌을 때](https://github.com/yoogail105/SSAC_iOS/issues/7#issue-1021663055)**<br/>
 　　**[📌 UITableView.automaticDimension](https://github.com/yoogail105/SSAC_iOS/blob/19e61f97e6b44184193452a96fd1a56f6ef54756/Wiki/%23%20UITableView.automaticDimension.md)**<br/>
