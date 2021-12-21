@@ -45,8 +45,7 @@ do {
 <img width="762" alt="image-20211220164920972" src="https://user-images.githubusercontent.com/53874628/146883299-1a83db49-3943-4f99-8e63-e5de46ac4de3.png">
 
 
-
-### * .prettyPrinted
+## * .prettyPrinted
 
 👉 보기 좋게 하는 방법은,
 
@@ -60,7 +59,7 @@ encoder.outputFormatting = .prettyPrinted
 <img width="249" alt="image-20211220164805343" src="https://user-images.githubusercontent.com/53874628/146883441-2f504c4a-75e1-4648-95d9-b7671465a09d.png">
 
 
-### * encode()
+## * encode()
 
 ​    let jsonData = try encoder.**<span style="color:#6998AB">encode(sol)</span>**
 
@@ -77,7 +76,7 @@ encoder.outputFormatting = .prettyPrinted
 
 
 
-### * Key 값이 다를 때 오류!
+## * Key 값이 다를 때 오류!
 
 ✔︎ 스펠링 오류: 이것은 회생불가.. 조심..!
 
@@ -85,7 +84,7 @@ encoder.outputFormatting = .prettyPrinted
 
 ✔︎ 옵셔널 타입으로 선언하지 않은 키에 nil값이 올 경우
 
-#### 내부에서 코드로 수정하는 방법...
+## 내부에서 코드로 수정하는 방법...
 
 iOS는 보통 camelCase를 사용한다. 만약 서버가 SnakeCase를 이용한다면 Xcode에서 변환하는 코드가 있다.
 <img width="820" alt="image-20211220172430396" src="https://user-images.githubusercontent.com/53874628/146883496-71fc9f01-fb7e-4fd2-b115-5b770f8ce9ae.png">
