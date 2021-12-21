@@ -91,3 +91,8 @@ iOS는 보통 camelCase를 사용한다. 만약 서버가 SnakeCase를 이용한
 
 
 ✔︎ one_two_three 👉 oneTwoTree
+
+🔖 참고
+
+✦ SeSac 강의 자료
+✦ https://babbab2.tistory.com/61
