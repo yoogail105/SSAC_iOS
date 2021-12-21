@@ -24,9 +24,8 @@
 
 
 
-Xcode에서 Codable 정의를 살펴보면, 
-
-![image-20211220152919834](/Users/mimjoohehe/Library/Application Support/typora-user-images/image-20211220152919834.png)
+Xcode에서 Codable 정의를 살펴보면,</br>
+<img width="657" alt="image-20211220152919834" src="https://user-images.githubusercontent.com/53874628/146882918-5cec656b-6fac-43ed-8905-b646e6aee957.png">
 
 - **Codable**은 **Encodable, Decodable 프로토콜**의 *typealias*이다.
 - 따라서 Codable은 양방향 인코딩/디코딩을 을 지원한다.
