@@ -124,6 +124,13 @@
 　　**📌 [Push Notification 동작방식](https://github.com/yoogail105/SSAC_iOS/blob/cf8dc1391194812ad6c0550b12c9c9eab1d80b6e/56%ED%9A%8C%EC%B0%A8(21.12.16)/Remote%20Notification%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EC%8B%9D.md)**</br>
 　　**📌 [APNs: Apple Push Notification Service](https://github.com/yoogail105/SSAC_iOS/blob/cf8dc1391194812ad6c0550b12c9c9eab1d80b6e/56%ED%9A%8C%EC%B0%A8(21.12.16)/APNs:%20Apple%20Push%20Notification%20Service.md)**</br>
 
+ ### 🐾 58회차
+　　**📌 [Codable](https://github.com/yoogail105/SSAC_iOS/blob/ea38277378c31fd9a59da8d58cfb06c4939b3ec1/58%ED%9A%8C%EC%B0%A8(21.12.20)/%23Codable.md)**</br>
+　　**📌 [Encodable](https://github.com/yoogail105/SSAC_iOS/blob/ea38277378c31fd9a59da8d58cfb06c4939b3ec1/58%ED%9A%8C%EC%B0%A8(21.12.20)/%23Encoding.mdd)**</br>
+　　**📌 Decodable **</br>
+  
+ ### 🐾 63회차
+　　**📌 [인증 APIService](https://github.com/yoogail105/SSAC_iOS/blob/bd264534feecd008ae07159f93aa0564628d6d10/63%ED%9A%8C%EC%B0%A8(21.12.27)/1227_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BCAPIService.md)**</br>
 
 ### 🐾
 　　**[📌 엔트리 포인터 없어졌을 때](https://github.com/yoogail105/SSAC_iOS/issues/7#issue-1021663055)**<br/>
