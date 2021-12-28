@@ -131,6 +131,8 @@
   
  ### 🐾 63회차
 　　**📌 [인증 APIService](https://github.com/yoogail105/SSAC_iOS/blob/bd264534feecd008ae07159f93aa0564628d6d10/63%ED%9A%8C%EC%B0%A8(21.12.27)/1227_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BCAPIService.md)**</br>
+　　**📌 [URLRequest](https://github.com/yoogail105/SSAC_iOS/blob/b6c344257d98accc9a2a7d42007999ac95513118/63%ED%9A%8C%EC%B0%A8(21.12.27)/URLRequest.md)**</br>
+  
 
 ### 🐾
 　　**[📌 엔트리 포인터 없어졌을 때](https://github.com/yoogail105/SSAC_iOS/issues/7#issue-1021663055)**<br/>
