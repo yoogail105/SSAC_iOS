@@ -133,6 +133,14 @@
 　　**📌 [인증 APIService](https://github.com/yoogail105/SSAC_iOS/blob/bd264534feecd008ae07159f93aa0564628d6d10/63%ED%9A%8C%EC%B0%A8(21.12.27)/1227_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BCAPIService.md)**</br>
 　　**📌 [URLRequest](https://github.com/yoogail105/SSAC_iOS/blob/b6c344257d98accc9a2a7d42007999ac95513118/63%ED%9A%8C%EC%B0%A8(21.12.27)/URLRequest.md)**</br>
   
+ ### 🐾 65회차
+ 　　**📌 [Enabling Optimizaions](https://github.com/yoogail105/SSAC_iOS/blob/50ddd0c74476a0278bd69d9cd6ee91eb95bfd81f/65%ED%9A%8C%EC%B0%A8(21.12.29)/Swift%20%EC%B5%9C%EC%A0%81%ED%99%94:%20%20Enabling%20Optimizations.md)**</br>
+　　　　`-Onone` `-O` `-Osize`<br/>
+　　**📌 [전체 모듈 최적화 Whole Module Optimization(WMO)](https://github.com/yoogail105/SSAC_iOS/blob/50ddd0c74476a0278bd69d9cd6ee91eb95bfd81f/65%ED%9A%8C%EC%B0%A8(21.12.29)/%EC%A0%84%EC%B2%B4%20%EB%AA%A8%EB%93%88%20%EC%B5%9C%EC%A0%81%ED%99%94%20Whole%20Module%20Optimization(WMO).md)**</br>
+　　**📌 [Reducing Dynamic Dispatch](https://github.com/yoogail105/SSAC_iOS/blob/50ddd0c74476a0278bd69d9cd6ee91eb95bfd81f/65%ED%9A%8C%EC%B0%A8(21.12.29)/3.%20Reducing%20Dynamic%20Dispatch.md)**</br>
+　　　　`Method Dispatch` `Static Dispatch` `Dynamic Dispatch`<br/>
+　　**📌 [Optimization Tip](https://github.com/yoogail105/SSAC_iOS/blob/50ddd0c74476a0278bd69d9cd6ee91eb95bfd81f/65%ED%9A%8C%EC%B0%A8(21.12.29)/4.%20Optimization%20Tip.md)**</br>
+　　　　`final` `filepricate/private` `internal`<br/>
 
 ### 🐾
 　　**[📌 엔트리 포인터 없어졌을 때](https://github.com/yoogail105/SSAC_iOS/issues/7#issue-1021663055)**<br/>
