@@ -55,9 +55,9 @@ func checkNumber3(number: Int?) -> (UserMissonStatus, Int?) {
 }
 ```
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/20184cf6-baa1-46f0-9ff5-d4d093d0d963/Untitled.png)
+![image](https://user-images.githubusercontent.com/53874628/161830279-4708363c-c097-434b-a85c-6833c44cac60.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2d7d3319-872e-45a7-afb7-09efaa0955f1/Untitled.png)
+![image](https://user-images.githubusercontent.com/53874628/161830324-d19c067c-24cb-44f7-be28-b91683399cf0.png)
 
 - number는 원래 `Optional Int`이다.
 - but. `if let value = number`가 참인 구문 안에서 value는 옵셔널이 아닌 `Int`이다.
