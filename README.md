@@ -126,8 +126,9 @@
 
  ### 🐾 58회차
 　　**📌 [Codable](https://github.com/yoogail105/SSAC_iOS/blob/ea38277378c31fd9a59da8d58cfb06c4939b3ec1/58%ED%9A%8C%EC%B0%A8(21.12.20)/%23Codable.md)**</br>
-　　**📌 [Encodable](https://github.com/yoogail105/SSAC_iOS/blob/ea38277378c31fd9a59da8d58cfb06c4939b3ec1/58%ED%9A%8C%EC%B0%A8(21.12.20)/%23Encoding.mdd)**</br>
-　　**📌 Decodable**</br>
+　　**📌 [Encodable](https://github.com/yoogail105/SSAC_iOS/blob/ea38277378c31fd9a59da8d58cfb06c4939b3ec1/58%ED%9A%8C%EC%B0%A8(21.12.20)/%23Encoding.md)**</br>
+　　**📌 [Decodable](https://github.com/yoogail105/SSAC_iOS/blob/cb27795429ac90dc11f8a3718aecce6bb38b6edc/58%ED%9A%8C%EC%B0%A8(21.12.20)/%23%20Decodable.md
+)**</br>
   
  ### 🐾 63회차
 　　**📌 [인증 APIService](https://github.com/yoogail105/SSAC_iOS/blob/bd264534feecd008ae07159f93aa0564628d6d10/63%ED%9A%8C%EC%B0%A8(21.12.27)/1227_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B3%E1%86%BCAPIService.md)**</br>
