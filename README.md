@@ -16,6 +16,7 @@
 　　　　`저장프로퍼티` `연산프로퍼티` `willSet/didSet`<br/>
 　　**📌 [지연 저장 프로퍼티 lazy var](https://github.com/yoogail105/SSAC_iOS/blob/5fd61e0120fce4ea05b133b7db63ad9675e356b2/11%EC%9D%BC%EC%B0%A8(21.10.13)/%23%EC%A7%80%EC%97%B0%20%EC%A0%80%EC%9E%A5%20%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0.md)**<br/>
 　　**📌 [타입 알리어스 typealias](https://github.com/yoogail105/SSAC_iOS/blob/5fd61e0120fce4ea05b133b7db63ad9675e356b2/11%EC%9D%BC%EC%B0%A8(21.10.13)/%23typealias.md)**<br/>
+　　**📌 [클로저 Closure](https://velog.io/@yoogail/1급-객체-클로저-Closure)**<br/>
 　　**📌 [고차함수 Higher-order function](https://github.com/yoogail105/SSAC_iOS/blob/668785ed686902830c509626fc6bbd2b97b9af8b/22%ED%9A%8C%EC%B0%A8(21.10.28)/%23%20%EA%B3%A0%EC%B0%A8%ED%95%A8%EC%88%98%20Higher-order%20function.md)**<br/>
   　　　　`.filter` `.map` `.reduce` `$0` <br/>
 <br/> 
