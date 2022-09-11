@@ -24,3 +24,6 @@
     - Device token은 애플이 특정 장치의 특정 앱에 할당한 고유 식별자를 포함하는 NSdata instance로, 누군가가 토큰을 탈취하더라도 안에 있는 내용을 해독할 수 없다! (APNs만 해독할 수 있음)
 
 🔗 [APNs를 통한 Remote Notification 동작 방식](https://github.com/yoogail105/SSAC_iOS/blob/0d789872aa7cb0671eb465ba2940af0dac91f2eb/56%ED%9A%8C%EC%B0%A8(21.12.16)/Remote%20Notification%20%EB%8F%99%EC%9E%91%20%EB%B0%A9%EC%8B%9D.md)
+
+### 🍫 참고자료
+- Fastcampus 30개 프로젝트로 배우는 iOS 앱 개발 with Swift 초격차 패키지 Online
